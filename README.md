@@ -1,3 +1,3 @@
-# Motivo
+# Notas 
 
-Este repositorio sirve para probar cosas
+Este archivo se encarga de manejar la liga
