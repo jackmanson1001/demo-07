@@ -7,3 +7,10 @@ Hola mundo
 mi repositorio nuevo
 
 Mala fama de heroes
+
+
+
+
+
+
+Perdidas mentiras en el tiempo
