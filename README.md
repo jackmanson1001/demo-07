@@ -6,4 +6,6 @@ Hola mundo
 
 mi repositorio nuevo
 
-Mala fama de heroes
+La mente es un lugar complicado
+
+con logica y emociones que la dominan
