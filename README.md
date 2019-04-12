@@ -6,7 +6,6 @@ Hola mundo
 
 *mi repositorio nuevo*
 
-<<<<<<< HEAD
 La mente es un lugar complicado
 
 **Mala fama de heroes**
