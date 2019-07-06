@@ -34,3 +34,7 @@ Un **gran** poder requiere una _gran_ *responsabilidad*.
 Perdidas mentiras en el tiempo
 
 [Ir a el enlace](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Farchitect-woman-portrait-smiling-happy-confident-young-multiracial-isolated-white-37240383.jpg&f=1)
+
+Iniciando los datos.
+
+Parte 2
