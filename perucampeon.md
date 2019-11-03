@@ -6,3 +6,5 @@ peruana.
 
 AdeMas, podemos terminar de hacer las cosas de casa.
 finalizando.
+
+Cambios en la seleccion.
