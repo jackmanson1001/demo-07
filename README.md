@@ -2,11 +2,11 @@
 # Mejorando subtitulos
 Este archivo se encarga de manejar la liga, estos temas son los mejoresmomentos para cambiar al mundo. estos temas son los mejoresmomentos para cambiar al mundo.
 
-Hola mundo desde hoy
+Hola mundo desde _hoy_
 
 *mi repositorio nuevo*
 
-La mente es un lugar complicado
+La mente es un lugar __complicado__
 
 **Mala fama de heroes**
 
